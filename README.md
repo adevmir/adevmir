@@ -1,4 +1,4 @@
-## Ola eu sou o Ademir Junior, Desenvolvedor Front-End Jr!
+## Ola eu sou o Ademir Junior, Desenvolvedor FullStack Jr!
 
 - 🌱 Atualmente estou estudando Python
 - 📫 Entre em contato: www.linkedin.com/in/adevmir/ || ademirvalonqar@gmail.com
