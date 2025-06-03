@@ -1,6 +1,6 @@
-## Ola eu sou o Ademir Junior, Desenvolvedor FullStack Jr!
+## Ola eu sou o Ademir Junior, Desenvolvedor FullStack!
 
-- 🌱 Atualmente estou estudando Python
+- 🌱 Atualmente estou estudando Acessibilidade Mobile + Flutter!
 - 📫 Entre em contato: www.linkedin.com/in/adevmir/ || ademirvalonqar@gmail.com
 
 ![Adevmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=adevmir&count_private=true&show_icons=true&theme=dark)
